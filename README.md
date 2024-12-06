@@ -1,16 +1,21 @@
-## Hi there 👋
+## Привет! 👋
 
-<!--
-**imoisey/imoisey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Игорь, я рад что ты заглянул(а) ко мне в профиль! 🎉
 
-Here are some ideas to get you started:
+## 🚀 О себе
+- 🌟 Я Senior PHP Developer. Пишу на PHP c 2008г.
+- 🌱 Постоянно изучаю что-то новое в области веб-разработки.
+- 💻 Люблю писать код и создавать проекты, которые решают мои задачи и задачи бизнеса.
+- 📚 Проникаюсь Flutter.
+- 🔥 Фанат Formula 1 и Liverpool FC.
+  
+## 🛠️ Мои навыки
+- **Языки программирования**: PHP, Dart, JS (давно не писал)
+- **Инструменты и технологии**: Docker, Git, Postgres, Kafka, Redis, etc.
+- **Фреймворки**: Symfony, Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Как связаться
+Если у вас есть вопросы, предложения или вы хотите обсудить сотрудничество, напишите мне:
+- [Telegram: @imoisey](https://t.me/imoisey)
+
+Спасибо, что заглянул(а) в мой профиль! 🚀
